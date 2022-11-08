@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+*.log
+tmp/
+wa-analyzer
+whatsapp-backup-chat-viewer/
+WhatsApp-Key-Database-Extractor/
+generated/
+*.db
